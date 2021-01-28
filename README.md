@@ -1,6 +1,6 @@
-# Remaster the Tidyverse
+# Tidyverse 공략집
 
-This repository contains editable class materials built by Garrett Grolemund for two separate one day workshops:
+이 공략집은 Rstudio의 [Garrett Grolemund](https://github.com/rstudio-education/remaster-the-tidyverse) 의 workshop을 기반으로 만들어졌음을 밝힙니다. 
 
 * **Welcome to the Tidyverse**
     
